@@ -38,7 +38,7 @@
 
     <div v-if="currentPage === 'contact'">
       <h1>Contacto</h1>
-      <p>Contáctanos para discutir cómo podemos colaborar en tu próximo proyecto.</p>
+      <p>Contáctanos para discutir cómo podemos colaborar en tu próximo proyecto .</p>
       <hr>
       <p>Puedes contactarnos por medio de WhatsApp asi como tambien por medio de Facebook como InnovaSoft</p>
       <img src="https://images.unsplash.com/photo-1494173853739-c21f58b16055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI1fHxjb250YWN0fGVufDB8fHx8MTYwMDcyNjk0NA&ixlib=rb-1.2.1&q=80&w=1080" alt="Imagen de contacto">
