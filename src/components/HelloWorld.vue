@@ -13,8 +13,8 @@
 
     <div v-if="currentPage === 'home'">
       <h1>Inicio</h1>
-      <p>Bienvenido a nuestra página web, Nuestro equipo esta formado por Jesus Alejandro Granillo Erazo, David Ernesto Melara Rivas asi como tambien
-        Jose Daniel Cortez Juarez y Miguel Alexis Arguera Ortiz.</p>
+      <p>Bienvenido a nuestra página web, Nuestro equipo esta formado por Jesus Alejandro Granillo Erazo<br>David Ernesto Melara Rivas asi como tambien
+        Jose Daniel Cortez Juarez<br> y Miguel Alexis Arguera Ortiz.</p>
       <img src="https://png.pngtree.com/png-clipart/20210521/ourlarge/pngtree-home-button-ui-ux-png-image_3308787.jpg" alt="Imagen de inicio">
     </div>
 
